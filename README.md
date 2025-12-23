@@ -382,18 +382,241 @@ Microservices         ████████████░░░░░░░�
 <!-- Animated Rainbow Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
+<!-- ============================================ -->
+<!-- MODERN ANIMATED FOOTER SECTION STARTS HERE -->
+<!-- ============================================ -->
+
 <div align="center">
-
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20For%20Visiting&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
-
-<!-- Powered By Badge -->
-<img src="https://img.shields.io/badge/Made%20with-Markdown-00d9ff?style=for-the-badge&logo=markdown&logoColor=white" />
-<img src="https://img.shields.io/badge/Maintained-Yes-10b981?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Last%20Updated-2024-a855f7?style=for-the-badge&logo=clock&logoColor=white" />
 
 <br><br>
 
-<b>From LEULEX-404</b>
+<!-- Flutter Themed Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Built+with+Flutter+%F0%9F%92%99;Crafted+with+Passion+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A" alt="Flutter Header" />
+</p>
+
+<br><br>
+
+<!-- Main Footer Grid -->
+<table align="center" border="0" width="100%">
+<tr>
+<td align="center" width="33%" valign="top">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="30" /> Flutter Expertise
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,vscode&theme=dark" width="200" />
+
+<br><br>
+```text
+Cross-Platform  ████████████████████░  95%
+State Management ███████████████████░░  90%
+UI/UX Design    ████████████████████░  98%
+Firebase        ██████████████████░░░  85%
+```
+
+</td>
+<td align="center" width="34%" valign="top">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" /> Thanks for Visiting!
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=350&height=80&lines=Let's+build+something+amazing;Open+to+collaborations+%F0%9F%92%BC;Always+ready+to+learn+%F0%9F%8E%AF" alt="Footer Message" />
+</p>
+
+<br>
+
+**Explore my repositories and drop a ⭐ if you like them!**
+
+<br>
+
+<!-- Interactive Metrics -->
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://img.shields.io/github/stars/LEULEX-404?style=for-the-badge&logo=github&logoColor=white&color=00d9ff&labelColor=1a1b27" />
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://komarev.com/ghpvc/?username=LEULEX-404&color=a855f7&style=for-the-badge&label=Profile+Views" />
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/github/followers/LEULEX-404?style=for-the-badge&logo=github&color=f472b6&labelColor=1a1b27" />
+</td>
+</tr>
+</table>
+
+</td>
+<td align="center" width="33%" valign="top">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30" /> Development Stats
+
+<!-- Circular Language Stats -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEULEX-404&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=02569B&text_color=c9d1d9&langs_count=6" width="280" />
+
+<br>
+
+**Transforming ideas into reality**  
+**One commit at a time** 💻
+
+</td>
+</tr>
+</table>
+
+<br><br>
+
+<!-- Animated Hexagon Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<br>
+
+<!-- Tetris Game Animation -->
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="400" />
+</td>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400" />
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Status Badges -->
+<table align="center" border="0">
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/💙_Flutter_Developer-Expert-02569B?style=for-the-badge&labelColor=1a1b27" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/📱_Mobile_First-Always-00d9ff?style=for-the-badge&labelColor=1a1b27" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🎨_UI/UX_Focused-100%25-a855f7?style=for-the-badge&labelColor=1a1b27" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/☕_Coffee_Powered-24/7-f472b6?style=for-the-badge&labelColor=1a1b27" />
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Animated Quotes -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=18&pause=1000&color=02569B&center=true&vCenter=true&random=false&width=900&lines=%E2%9A%A1+Powered+by+Flutter+and+determination;%F0%9F%8E%AF+Creating+seamless+mobile+experiences;%F0%9F%92%A1+Design.+Develop.+Deploy.+Repeat.;%F0%9F%9A%80+Building+the+future+of+mobile+apps;%E2%9C%A8+Where+creativity+meets+functionality" alt="Animated Footer Quote" />
+</p>
+
+<br><br>
+
+<!-- Action Buttons Row -->
+<table align="center" border="0">
+<tr>
+<td align="center">
+<a href="https://github.com/LEULEX-404">
+<img src="https://img.shields.io/badge/👨‍💻_Coded_by-LEULEX--404-00d9ff?style=for-the-badge&labelColor=1a1b27" />
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/LEULEX-404?tab=repositories">
+<img src="https://img.shields.io/badge/⭐_Explore_Projects-02569B?style=for-the-badge&labelColor=1a1b27" />
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/LEULEX-404?tab=followers">
+<img src="https://img.shields.io/badge/🔔_Follow_Journey-a855f7?style=for-the-badge&labelColor=1a1b27" />
+</a>
+</td>
+<td align="center">
+<a href="mailto:miyurut20@gmail.com">
+<img src="https://img.shields.io/badge/📧_Let's_Connect-10b981?style=for-the-badge&labelColor=1a1b27" />
+</a>
+</td>
+</tr>
+</table>
+
+<br><br>
+
+<!-- Pixel Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+<!-- Social Media Section with Flutter Theme -->
+<table align="center" border="0">
+<tr>
+<td align="center" colspan="5">
+<h3>🤝 Let's Connect & Collaborate</h3>
+<p>Find me on these platforms 👇</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://github.com/LEULEX-404">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=181717" height="40"/>
+<br>
+<img src="https://img.shields.io/github/followers/LEULEX-404?style=social" />
+</a>
+</td>
+<td align="center">
+<a href="https://www.facebook.com/TharukaFB">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="40"/>
+<br>
+<sub>Connect</sub>
+</a>
+</td>
+<td align="center">
+<a href="mailto:miyurut20@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
+<br>
+<sub>Email Me</sub>
+</a>
+</td>
+<td align="center">
+<a href="https://linkedin.com/in/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+<br>
+<sub>Network</sub>
+</a>
+</td>
+<td align="center">
+<a href="https://instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40"/>
+<br>
+<sub>Follow</sub>
+</a>
+</td>
+</tr>
+</table>
+
+<br><br>
+
+<!-- Coding Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" />
+
+<br><br>
+
+<!-- Final Animated Message -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Thank+you+for+visiting+my+profile!+%F0%9F%8C%9F;Open+for+freelance+%26+collaboration+%F0%9F%92%BC;Let's+build+something+extraordinary!+%F0%9F%9A%80;Keep+coding%2C+keep+creating!+%E2%9C%A8" alt="Final Message" />
+</p>
+
+<br><br>
+
+<!-- Footer Badge -->
+<img src="https://img.shields.io/badge/💻_Made_with-Flutter_%26_Love-02569B?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/📅_Last_Updated-December_2024-a855f7?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/⚡_Status-Available_for_Hire-10b981?style=for-the-badge&labelColor=1a1b27" />
+
+<br><br>
+
+<!-- Matrix Rain Effect Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+</div>
 
 </div>
