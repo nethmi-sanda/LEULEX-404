@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Animated Header with Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00d9ff,50:a855f7,100:f472b6&height=300&section=header&text=THARUKA%20SANJEEWA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20React%20Specialist%20•%20Flutter%20Expert%20•%20Backend%20Architect&descSize=20&descAlignY=58&descAlign=50&stroke=00d9ff&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00d9ff,50:a855f7,100:f472b6&height=300&section=header&text=THARUKA%20SANJEEWA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20React%20Specialist%20•%20Backend%20Architect&descSize=20&descAlignY=58&descAlign=50&stroke=00d9ff&strokeWidth=2" />
 
 <!-- Animated Subtitle Bar -->
 <div align="center">
