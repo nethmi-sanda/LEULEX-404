@@ -609,7 +609,7 @@ Firebase        ██████████████████░░░ 
 
 <!-- Footer Badge -->
 <img src="https://img.shields.io/badge/💻_Made_with-Flutter_%26_Love-02569B?style=for-the-badge&labelColor=1a1b27" />
-<img src="https://img.shields.io/badge/📅_Last_Updated-December_2024-a855f7?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/📅_Last_Updated-January_2026-a855f7?style=for-the-badge&labelColor=1a1b27" />
 <img src="https://img.shields.io/badge/⚡_Status-Available_for_Hire-10b981?style=for-the-badge&labelColor=1a1b27" />
 
 <br><br>
