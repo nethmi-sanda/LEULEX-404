@@ -104,8 +104,12 @@ console.log(tharuka.getStatus());
 <br>Next.js
 </td>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=flutter" width="55" height="55" alt="Flutter" />
-<br>Flutter
+<img src="https://skillicons.dev/icons?i=react" width="55" height="55" alt="React Native" />
+<br>React Native
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=angular" width="55" height="55" alt="Angular" />
+<br>Angular
 </td>
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" alt="Tailwind" />
@@ -126,7 +130,7 @@ console.log(tharuka.getStatus());
 <table>
 <tr>
 <td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="55" height="55" />
+<img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js" />
 <br>Node.js
 </td>
 <td align="center" width="100">
@@ -138,8 +142,20 @@ console.log(tharuka.getStatus());
 <br>MySQL
 </td>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=firebase" width="55" height="55" alt="Firebase" />
-<br>Firebase
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" alt="Java" />
+<br>Java
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=spring" width="55" height="55" alt="Spring Boot" />
+<br>Spring Boot
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=laravel" width="55" height="55" alt="Laravel" />
+<br>Laravel
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=php" width="55" height="55" alt="PHP" />
+<br>PHP
 </td>
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=postman" width="55" height="55" alt="Postman" />
@@ -168,9 +184,27 @@ console.log(tharuka.getStatus());
 <br>Figma
 </td>
 <td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/npm-icon.svg" alt="npm" width="55" height="55" />
+<img src="https://skillicons.dev/icons?i=npm" width="55" height="55" alt="npm" />
 <br>npm
 </td>
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/swagger/85EA2D" width="55" height="55" alt="Swagger" />
+<br>Swagger
+</td>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" width="55" height="55" />
+<br>Playwright</td>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" height="55" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="55" height="55" alt="Kubernetes" />
+<br>Kubernetes
+</td>
+<td align="center" width="96">
+<img src="https://cdn.simpleicons.org/jira/0052CC" alt="Jira" width="55" height="55" />
+<br>Jira</td>
 </tr>
 </table>
 
