@@ -229,7 +229,7 @@ console.log(tharuka.getStatus());
 </tr>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEULEX-404&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=10&border_radius=10&card_width=400" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=LEULEX-404&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=00f3ff&text_color=c9d1d9&bg_color=0D1117" alt="LEULEX-404's Top Languages" />
 </td>
 <td width="50%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LEULEX-404&theme=react&utcOffset=5.5" />
