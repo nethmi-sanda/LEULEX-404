@@ -238,13 +238,14 @@ console.log(tharuka.getStatus());
 </table>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LEULEX-404&custom_title=Contribution%20Activity%20Graph&bg_color=0D1117&color=00d9ff&line=a855f7&point=00d9ff&area=true&hide_border=true&area_color=00d9ff&title_color=00d9ff" width="100%"/>
+<img src="https://ghchart.rshah.org/00d9ff/LEULEX-404" alt="LEULEX-404's Contribution Graph" />
 
 <!-- Trophy Animation -->
-<img src="https://github-profile-trophy.vercel.app/?username=LEULEX-404&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" />
+<img src="https://github-trophies.vercel.app/?username=LEULEX-404&theme=dark&no-frame=true&no-bg=false&row=1&column=7&margin-w=15&margin-h=15" width="100%" />
 
 <!-- Contribution 3D Chart -->
-<img src="https://raw.githubusercontent.com/LEULEX-404/LEULEX-404/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<!-- 3D Contribution Chart -->
+<img src="https://commitpulse.vercel.app/api/graph?username=LEULEX-404" width="100%" alt="LEULEX-404's 3D Contribution Graph" />
 
 </div>
 
