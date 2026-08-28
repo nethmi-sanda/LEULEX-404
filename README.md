@@ -243,10 +243,8 @@ console.log(tharuka.getStatus());
 <!-- Trophy Animation -->
 <img src="https://github-trophies.vercel.app/?username=LEULEX-404&theme=dark&no-frame=true&no-bg=false&row=1&column=7&margin-w=15&margin-h=15" width="100%" />
 
-<!-- Contribution 3D Chart -->
 <!-- 3D Contribution Chart -->
-<img src="https://commitpulse.vercel.app/api/graph?username=LEULEX-404" width="100%" alt="LEULEX-404's 3D Contribution Graph" />
-
+<img src="https://raw.githubusercontent.com/LEULEX-404/LEULEX-404/main/streak.svg" width="100%" alt="LEULEX-404's 3D Contribution Graph" />
 </div>
 
 <!-- Animated Rainbow Divider -->
