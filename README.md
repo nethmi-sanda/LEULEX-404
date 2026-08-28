@@ -221,7 +221,7 @@ console.log(tharuka.getStatus());
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=LEULEX-404&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=a855f7&text_color=c9d1d9&ring_color=00d9ff&border_radius=10" />
+<img src="https://github-readme-stats.shion.dev/api?username=LEULEX-404&theme=dark&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&title_color=00f3ff&icon_color=00f3ff&text_color=c9d1d9&bg_color=0D1117&ring_color=00f3ff" />
 </td>
 <td width="50%">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LEULEX-404&theme=react&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=a855f7&currStreakLabel=00d9ff&border_radius=10" />
