@@ -30,7 +30,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="35" /> Developer Profile
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation"/>
+<img align="left" width="400" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODg0MzA0NTIsIm5iZiI6MTc4ODQzMDE1MiwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTAzVDEwMDkxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTljNGE5MjkzM2I0YzU0OTIxZDA5NWJhOWUyNmJjZGVlYzU3Y2M3NzhmZmNmNjY3MDk2NDg2OWIzYWNkNTJkNTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.qkzNf9DtPCRtN22fGV4aulOfX2WLTQCaah6Xy_NpLqI" alt="Coding Animation"/>
 
 ```javascript
 class Developer {
@@ -42,7 +42,7 @@ class Developer {
         
         this.workingOn = [
             "Building scalable React applications",
-            "Cross-platform Flutter development",
+            "React-Native Mobile development",
             "RESTful API design with Node.js"
         ];
         
@@ -51,19 +51,8 @@ class Developer {
             backend: ["Node.js", "Express", "MySQL", "Firebase"],
             tools: ["Git", "GitHub", "VS Code", "Figma", "Postman"]
         };
-        
-        this.currentlyLearning = [
-            "Advanced React Patterns",
-            "Flutter State Management",
-            "Microservices Architecture"
-        ];
-        
-        this.lifePhilosophy = "Code with passion, debug with patience";
     }
     
-    getStatus() {
-        return "Turning caffeine into code...";
-    }
 }
 
 const tharuka = new Developer();
