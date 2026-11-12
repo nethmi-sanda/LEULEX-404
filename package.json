@@ -1,0 +1,28 @@
+{
+  "name": "image-studio",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Image Studio - Member 4 Accounts, Projects, Save/Recovery & Export",
+  "workspaces": [
+    "shared"
+  ],
+  "scripts": {
+    "test:shared": "npm --workspace=@image-studio/shared run test",
+    "typecheck:shared": "npm --workspace=@image-studio/shared run typecheck",
+    "build:shared": "npm --workspace=@image-studio/shared run build",
+    "test": "npm run test:shared",
+    "typecheck": "npm run typecheck:shared"
+  },
+  "devDependencies": {
+    "typescript": "5.8.3",
+    "vitest": "3.2.4"
+  },
+  "overrides": {
+    "rollup": "npm:@rollup/wasm-node@4.68.2"
+  },
+  "engines": {
+    "node": ">=20.19.0",
+    "npm": ">=10.0.0"
+  }
+}
+

@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+*.tsbuildinfo
+
+# Environment & secrets (keep secrets out of git and frontend bundles)
+.env
+.env.local
+.env.*.local
+
+# Local dev fallback storage & logs
+server/data/
+logs/
+*.log
+
+# Test artifacts
+coverage/
+playwright-report/
+test-results/
+.vitest/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+
